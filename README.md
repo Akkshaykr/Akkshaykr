@@ -12,4 +12,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+## LeetCode Stats
+
+[![Akkshay's LeetCode Stats](https://leetcard.jacoblin.cool/akkshaykr?theme=light&font=Fira%20Code&ext=heatmap)](https://leetcode.com/akkshaykr/)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
