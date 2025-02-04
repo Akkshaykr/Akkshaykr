@@ -15,6 +15,5 @@
 ## LeetCode Stats
 
 [![Akkshay's LeetCode Stats](https://leetcard.jacoblin.cool/akkshaykr?theme=light&font=Fira%20Code&ext=heatmap)](https://leetcode.com/akkshaykr/)
-### 🏆 LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Mahendran2259?theme=light&font=Lexend&ext=heatmap)](https://leetcode.com/u/akkshaykr/)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
